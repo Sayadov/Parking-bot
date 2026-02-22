@@ -1,0 +1,2 @@
+class StorageConflictError(Exception):
+    pass
